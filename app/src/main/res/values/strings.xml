@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ProductFinder</string>
+    <string name="googleApiKey">RrXykDNviwI6h5eCBUPahpuhdy5X8Opi</string>
+    <string name="searchText">Enter Zipcode</string>
+    <string name="serach_btn">Search</string>
+    <string name="zipcode_hint">Enter Zip Code</string>
+
+
+    <!--Location Constants -->
+    <string name="API_radius">30</string>
+    <string name="location_refresh_distance">500</string>
+    <string name="location_refresh_interval">5</string>
+
+
+
+
+    <!-- Toast Messages -->
+    <string name="stores_list_failed">Stores retrieval is failed</string>
+    <string name="zipcode_length">Zipcode should have 5 digits</string>
+    <string name="maps_loading_issue">Problem in loading maps</string>
+
+
+
+    <string-array name="Stores">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+
+
+</resources>
